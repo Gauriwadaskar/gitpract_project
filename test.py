@@ -4,3 +4,4 @@ c=a+b;
 print(c)
 print ("hellow")
 print ("show diffrence")
+print ("show diffrence gffd")
